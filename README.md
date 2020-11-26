@@ -7,4 +7,4 @@
 - 🌱 Aprendendo, typescript com react e node.
 - :sparkles: Cursando Bacharelado na Univeridade Federal da Fronteira Sul.
 - 📫 Residindo em Chapecó - SC.
-- 🚀 Tecnologias: React, React Native, Node Js, PHP.
+- 🚀 Tecnologias: React, React Native, Node Js, Typescript, Vue Js, PHP.
