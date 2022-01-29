@@ -3,7 +3,7 @@
 
 ### Olá 👋
 
-- 🔭 Estou trabalhando em um projeto chamado Lifestic e desenvolvendo o Agtor - Gestor Agrícola.
+- 🔭 Desenvolvedor Frontend no Olist.
 - 🌱 Aprendendo, typescript com react e node.
 - :sparkles: Cursando Bacharelado na Univeridade Federal da Fronteira Sul.
 - 📫 Residindo em Chapecó - SC.
