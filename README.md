@@ -4,7 +4,6 @@
 ### Olá 👋
 
 - 🔭 Desenvolvedor Frontend no Olist.
-- 🌱 Aprendendo, typescript com react e node.
 - :sparkles: Cursando Bacharelado na Univeridade Federal da Fronteira Sul.
 - 📫 Residindo em Chapecó - SC.
 - 🚀 Tecnologias: React Js, Next Js, React Native, Node Js, Typescript, Vue Js, PHP.
